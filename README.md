@@ -17,6 +17,6 @@ a unity project that encompass the main menu and story telling
 
 ## to do
 
-1. make the mountain look like tectonic edge mountains like ![this](C:\Users\mohamdkataya1\Documents\grad project\Capture.PNG"mountain image")
+1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/Capture.PNG "mountain image")
 
 2.
