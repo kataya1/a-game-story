@@ -11,7 +11,13 @@ a unity project that encompass the main menu and story telling
 3. made terrain to look like the agreed upon hypothetical country  
 4. downloaded textures and set up different texture and made normals of textures using third party apps 
 5. made country lines using multiple line objects . Made layers to put thing in it to make it organized
+6. made countrylines through terrain through the countrylines shader but decided to use the standard shader with the emission feature
+7. 
 
 ## to do
 
 1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/Capture.PNG "mountain image")
+2. add clouds
+3. add ui
+4. add scene manager
+5. ainmation 
