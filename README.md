@@ -20,3 +20,4 @@ a unity project that encompass the main menu and story telling
 2. add ui
 3. add scene manager
 4. ainmation 
+5. day/night cycle (change the color of the clouds too with a script)
