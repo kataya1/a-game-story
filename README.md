@@ -4,7 +4,7 @@ a unity project that encompass the main menu and story telling
 
 
 
-## did 
+## done 
 
 1. watched a ~~shit~~ ton of videos ( textures , ui , scene management , animation , effects , post processing, shaders , materials) 
 2. adjusted the camera to make the view that looks like the one in my head
