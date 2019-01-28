@@ -12,7 +12,7 @@ a unity project that encompass the main menu and story telling
 4. downloaded textures and set up different texture and made normals of textures using third party apps 
 5. made country lines using multiple line objects . Made layers to put thing in it to make it organized
 6. made countrylines visible through terrain through the countrylines shader but decided to use the standard shader with the emission feature
-7. finished clouds, not the best not the worst but two and a half days on it is too much. 
+7. finished clouds, improve later
 8. made a prefab of the all the current terrain and assets to be able to edit them through out the different scene, prefab editing tool came with unity 2018.3
 
 ## to do
