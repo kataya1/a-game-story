@@ -1,5 +1,5 @@
 # story-telling-GUI
-a unity project that encompass the main menu and story telling
+a unity project that encompass the main menu, story telling and scene management 
 
 ## game
 
