@@ -1,7 +1,19 @@
 # story-telling-GUI
 a unity project that encompass the main menu and story telling
 
+## game
 
+>...yaba daba do (to be updated later)
+
+## scenario
+
+>...tuturu (to be updated later)
+
+check notes :
+
+ * [game](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/mdAssits/mdImages/game)
+ * [observations](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/mdAssits/mdImages/observations)
+ * [notes](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/mdAssits/mdImages/notes)
 
 
 ## done 
@@ -13,7 +25,7 @@ a unity project that encompass the main menu and story telling
 5. made country lines using multiple line objects . Made layers to put thing in it to make it organized
 6. made countrylines visible through terrain through the countrylines shader but decided to use the standard shader with the emission feature
 7. finished clouds, improve later
-8. made a prefab of the all the current terrain and assets to be able to edit them through out the different scene, prefab editing tool came with unity 2018.3
+8. made a prefab of the all the current terrain and assets to be able to edit them through out the different scene, prefab editing tool came with unity 2018.3 (terrain doesn't work on prefab workflow)
 
 ## to do
 
