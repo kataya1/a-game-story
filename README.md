@@ -3,7 +3,11 @@ a unity project that encompass the main menu, story telling and scene management
 
 ## game
 
->...yaba daba do (to be updated later)
+...(to be update)
+
+### UI :
+
+* main menu ![](story-telling-GUI/mdAssits/mdImages/mainmenu.PNG =100*100)
 
 ## scenario
 
@@ -29,7 +33,7 @@ check notes :
 
 ## to do
 
-1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/Capture.PNG "mountain image")
+1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/mountainVG.PNG "mountain image")
 2. add ui
 3. add scene manager
 4. ainmation 
