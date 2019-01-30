@@ -7,7 +7,7 @@ a unity project that encompass the main menu, story telling and scene management
 
 ### UI :
 
-* main menu ![](story-telling-GUI/mdAssits/mdImages/mainmenu.PNG =100*100)
+* main menu ![](story-telling-GUI/mdAssits/mdImages/mainmenu.PNG =100x100)
 
 ## scenario
 
