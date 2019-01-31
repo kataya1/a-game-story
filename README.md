@@ -7,7 +7,7 @@ a unity project that encompass the main menu, story telling and scene management
 
 ### UI :
 
-* main menu ![](story-telling-GUI/mdAssits/mdImages/mainmenu.PNG =100x100)
+* main menu <img src="https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/mainmenu.PNG" alt="drawing" width="200"/>
 
 ## scenario
 
