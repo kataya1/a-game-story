@@ -30,6 +30,8 @@ check notes :
 6. made countrylines visible through terrain through the countrylines shader but decided to use the standard shader with the emission feature
 7. finished clouds, improve later
 8. made a prefab of the all the current terrain and assets to be able to edit them through out the different scene, prefab editing tool came with unity 2018.3 (terrain doesn't work on prefab workflow)
+9. made scripts for button functionality and menu animation
+10. learned how to make custom shaders and lightweight rendering pipeline and made another place holder scene with it.
 
 ## to do
 
