@@ -32,6 +32,7 @@ check notes :
 8. made a prefab of the all the current terrain and assets to be able to edit them through out the different scene, prefab editing tool came with unity 2018.3 (terrain doesn't work on prefab workflow)
 9. made scripts for button functionality and menu animation
 10. learned how to make custom shaders and lightweight rendering pipeline and made another place holder scene with it.
+11. added day/night cycle
 
 ## to do
 
@@ -43,3 +44,4 @@ check notes :
 6. calibrate windzone and duststorm settings 
 7. adjust the right most country line 
 8. adjust the water wave direction and the looks of the water
+9. add cities light
