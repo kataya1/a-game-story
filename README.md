@@ -16,9 +16,9 @@ That air we breath is charged with worrieness and hints of fear.its because Ever
 
 check notes :
 
- * [game](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/mdAssits/Documentation/game)
- * [observations](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/Documentation/mdImages/observations)
- * [notes](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/Documentation/mdImages/notes)
+ * [game](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/Documentation/game)
+ * [observations](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/Documentation/observations)
+ * [notes](https://github.com/kataya1/story-telling-GUI/tree/kataya1-patch-1/Documentation/notes)
 
 
 ## done 
