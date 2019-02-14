@@ -11,7 +11,7 @@ That air we breath is charged with worrieness and hints of fear.its because Ever
 
 ### UI :
 
-* main menu <img src="https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/mainmenu.PNG" alt="drawing" width="200"/>
+* main menu <img src="https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/mainmenu.PNG" alt="drawing" width="200"/>
 
 
 check notes :
@@ -37,7 +37,7 @@ check notes :
 
 ## to do
 
-1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/mdImages/mountainVG.PNG "mountain image")
+1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/mountainVG.PNG "mountain image")
 2. add ui
 3. add scene manager
 4. ainmation 
