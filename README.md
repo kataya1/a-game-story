@@ -46,3 +46,4 @@ check notes :
 7. adjust the right most country line 
 8. adjust the water wave direction and the looks of the water
 9. add cities light
+10. add onHover cloud particle system disappear
