@@ -7,7 +7,7 @@ A country invades another
 Player is gonna help his country take back the land by doing mission
 
 #### <b>backstory</b>
-That air we breath is charged with worrieness and hints of fear.its because Everyone is following the news of  the coup that took place in the empire of "keyaness " near our eastern border. There has always been animosity between our nation the repuplic of "samaia " and the empire . its ought to be this way since the last war was only 25 years ago discontinued by a ciese fire. We are especially cautiouss because the ascindee to the emperial throne "relti dismond" tge former grand general of the keyanessi armed forces is a vile nationalist warmonger....[read more](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/backstory.md)
+That air we breath is charged with worrieness and hints of fear.its because Everyone is following the news of  the coup that took place in the empire of "keyaness " near our eastern border. There has always been animosity between our nation the repuplic of "samaia " and the empire . its ought to be this way since....[read more](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/mdAssits/backstory.md)
 
 ### UI :
 
