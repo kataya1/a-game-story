@@ -1,6 +1,8 @@
 # story-telling-GUI
 a unity project that encompass the main menu, story telling and scene management 
 
+<img src="https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/countryfromabove.PNG" />
+
 ## game
 #### <b>abstract</b>
 A country invades another
