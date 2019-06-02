@@ -8,7 +8,7 @@ a unity project that encompass the main menu, story telling and scene management
 A country invades another
 Player is gonna help his country take back the land by doing mission
 
-#### <b>backstory</b>
+#### <b>Novel form back story</b>
 That air we breath is charged with worrieness and hints of fear.its because Everyone is following the news of  the coup that took place in the empire of "keyaness " near our eastern border. There has always been animosity between our nation the repuplic of "samaia " and the empire . its ought to be this way since....[read more](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/backstory.md)
 
 ### UI :
@@ -36,16 +36,19 @@ check notes :
 9. made scripts for button functionality and menu animation
 10. learned how to make custom shaders and lightweight rendering pipeline and made another place holder scene with it.
 11. added day/night cycle
+12. add ui
+13. add scene manager
+14. ainmation 
+15. day/night cycle ~~(change the color of the clouds too with a script)~~
+16. calibrate windzone and duststorm settings 
+18. adjust the water wave direction and the looks of the water
+19. added level selectors with scripts and animations.
 
 ## to do
 
 1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/mountainVG.PNG "mountain image")
-2. add ui
-3. add scene manager
-4. ainmation 
-5. day/night cycle (change the color of the clouds too with a script)
-6. calibrate windzone and duststorm settings 
 7. adjust the right most country line 
 8. adjust the water wave direction and the looks of the water
 9. add cities light
 10. add onHover cloud particle system disappear
+11. put the final touches and finish the story using timeline
