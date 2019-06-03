@@ -46,7 +46,8 @@ check notes :
 
 ## to do
 
-1. make the mountain look like tectonic edge mountains like ![this](https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/mountainVG.PNG "mountain image")
+1. ~~make the mountain look like tectonic edge mountains like~~
+<img src="https://github.com/kataya1/story-telling-GUI/blob/kataya1-patch-1/Documentation/mdImages/mountainVG.PNG"  width="200"/> 
 7. adjust the right most country line 
 8. adjust the water wave direction and the looks of the water
 9. add cities light
