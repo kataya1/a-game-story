@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
 public class crystalbehavior : MonoBehaviour
 {
     // public static float AscendSpeed = 0.5f;
@@ -11,7 +10,14 @@ public class crystalbehavior : MonoBehaviour
     // Vector3 movamout = new Vector3(0,AscendSpeed,0);
     public Animator animator;
     public string sceneName;
+    public bool finale;
+    public GameObject cutscene;
+    public GameObject oldlvl;
     
+    void Start()
+    {
+        
+    }
     void OnMouseOver()
     {
         // Change the color of the GameObject to red when the mouse is over GameObject
@@ -30,7 +36,16 @@ public class crystalbehavior : MonoBehaviour
      void OnMouseDown()
     {
         // load a new scene
-        SceneManager.LoadScene(sceneName);
+        //SceneManager.LoadScene(sceneName);
+        cutscene.SetActive(true);
+        oldlvl.SetActive(false);
+        if(finale)
+        {
+             //GameObject.Find("Canvas/ui/MAIN MENU/Continue")
+             GameObject.Find("level/daynightcycle/sun").GetComponent<daynightCycle>().enabled = true;
+             GameObject.Find("level/daynightcycle/moon").GetComponent<daynightCycle>().enabled = true;
+             GameObject.Find("timeline assets/Enemy/lvl1n2").SetActive(true);
+        }
     }
 }
 
