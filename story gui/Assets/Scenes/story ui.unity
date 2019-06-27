@@ -5366,7 +5366,7 @@ PlayableDirector:
   m_PlayableAsset: {fileID: 11400000, guid: 55e9a5c6925b55c4aa6d71669d00e25c, type: 2}
   m_InitialState: 1
   m_WrapMode: 2
-  m_DirectorUpdateMode: 1
+  m_DirectorUpdateMode: 0
   m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 114877135100084614, guid: 55e9a5c6925b55c4aa6d71669d00e25c, type: 2}
@@ -15363,7 +15363,7 @@ PlayableDirector:
   m_PlayableAsset: {fileID: 11400000, guid: 973c1193eadc87c44a06c418ba2b0f7c, type: 2}
   m_InitialState: 1
   m_WrapMode: 2
-  m_DirectorUpdateMode: 1
+  m_DirectorUpdateMode: 2
   m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 114974364666250584, guid: 973c1193eadc87c44a06c418ba2b0f7c, type: 2}
@@ -22253,7 +22253,7 @@ PlayableDirector:
   m_PlayableAsset: {fileID: 11400000, guid: ff0b8b4edf8201544a720850b350d6da, type: 2}
   m_InitialState: 1
   m_WrapMode: 2
-  m_DirectorUpdateMode: 1
+  m_DirectorUpdateMode: 2
   m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 114061288866090432, guid: ff0b8b4edf8201544a720850b350d6da, type: 2}
@@ -28947,7 +28947,7 @@ PlayableDirector:
   m_PlayableAsset: {fileID: 11400000, guid: 8085b0f39bc5c4547afe8f1ce5b036d3, type: 2}
   m_InitialState: 1
   m_WrapMode: 2
-  m_DirectorUpdateMode: 1
+  m_DirectorUpdateMode: 3
   m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 114358708357638482, guid: 8085b0f39bc5c4547afe8f1ce5b036d3, type: 2}
@@ -39677,6 +39677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: level
       objectReference: {fileID: 0}
+    - target: {fileID: 1529067815331286, guid: ea00b7883b54b5b46b644eca4011c6b6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4234716679428446, guid: ea00b7883b54b5b46b644eca4011c6b6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1000
@@ -39720,10 +39724,6 @@ PrefabInstance:
     - target: {fileID: 4234716679428446, guid: ea00b7883b54b5b46b644eca4011c6b6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1529067815331286, guid: ea00b7883b54b5b46b644eca4011c6b6, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4253326684982856, guid: ea00b7883b54b5b46b644eca4011c6b6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -40149,7 +40149,7 @@ GameObject:
   m_Layer: 0
   m_Name: intro cutscene
   m_TagString: Untagged
-  m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
